@@ -1,5 +1,6 @@
 #import "AppDelegate.h"
 #import "TESTFail.h"
+#import "TestFailed.h"
 
 @implementation AppDelegate
 
